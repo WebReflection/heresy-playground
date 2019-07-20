@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "esm": "^3.2.25",
-    "heresy-ssr": "^0.4.6"
+    "heresy-ssr": "^0.4.9"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",

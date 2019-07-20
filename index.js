@@ -1,5 +1,4 @@
 import {document, define, html, render} from 'heresy-ssr';
-import SpecialP from './components/p-log.js';
 import SpecialDIV from './components/div-log.js';
 
 define('SpecialDIV', SpecialDIV);
